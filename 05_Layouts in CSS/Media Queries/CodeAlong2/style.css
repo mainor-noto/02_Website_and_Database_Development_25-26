@@ -25,6 +25,20 @@ body {
 
 }
 
+.container{
+    display: grid;
+    gap: var(--card);
+    padding: var(--space);
+}
+
+
+
+
+
+
+
+
+
 @media (min-width: 640px) {
 
 }
